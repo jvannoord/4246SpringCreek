@@ -1,0 +1,60 @@
+
+body {
+	background:#fff;
+	margin:0;
+	padding:0;
+	font-family:arial,helvetica,sans-serif;
+	padding:10px;
+	color:#333;
+	font-size:16px;
+}
+
+#container {
+//	width: 450px;
+	margin:0 auto;
+}
+
+div.contact {
+	float: right;
+}
+
+div.contact p {
+	margin: 0;
+}
+
+img#image {
+	width: 400px;
+	height: 300px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1 span.address1 {
+	font-size: 22px;
+}
+
+h1 span.address2 {
+	font-size: 18px;
+	font-weight: normal;
+}
+
+div.iframe {
+	text-align: center;
+}
+
+ul {
+}
+
+   a:link,
+    a:visited {
+      color: #333
+    }
+
+a:link, a:visited {
+    color: #d22929;
+    text-decoration: none;
+    font-weight: 600;
+}
+
