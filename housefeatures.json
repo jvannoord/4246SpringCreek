@@ -1,0 +1,150 @@
+{
+	"info" : {
+		"price" : "$425,000",
+		"address1" : "4246 Spring Creek Lane",
+		"address2" : "Bellingham, WA 98226",
+		"sqft" : "3,200 sq ft",
+		"lot" : "4,791 sq ft",
+		"built" : "2006",
+		"bedrooms" : "4 beds",
+		"bathrooms" : "3.5 baths",
+		"rooms" : "living,family,dining,kitchen,master,guest,room1,room2",
+		"garage" : "2-car attached",
+		"heat" : "forced air"
+	},
+	
+	"contact" : {
+		"phone-number" : "360-223-7818",
+		"contact-name" : "James"
+	},
+
+	"features" : ["front porch",
+				  "back deck",
+				  "natural gas plubed outdoors",
+				  "natural gas furnace",
+				  "natural gas dryer hookup",
+				  "TWO gas fireplaces",
+				  "poured concrete foundation",
+				  "fenced back yard",
+				  "Hardi-plank siding",
+				  "granite countertops",
+				  "living room",
+				  "family room",
+				  "dining room",
+				  "kitchen",
+				  "4 bedrooms",
+				  "3.5 bathrooms",
+				  "walk-in closets in 3 bedrooms",
+				  "fireplace in master bedroom",
+				  "greenbelt behind home",
+				  "2-car garage",
+				  "central vacuum",
+				  "cable ready",
+				  "ceiling fans",
+				  "double pane/storm windows",
+				  "jetted tub",
+				  "territorial view"
+				  ],
+	
+	"descriptions" : [
+		"Awesome Ralph Black-built home with 4 bedrooms, 3.5(!) bathrooms and 2-car garage. HUGE and spacious kitchen with granite countertops and Jenn-Air oven+stove. ENORMOUS master bedroom with spa-like bathroom and a walk-in closet as large as other homes' bedrooms. 2 gas fireplaces! Guest room has its own full bathroom. A covered porch on the front and open-air deck on the back that both feature aluminum railings and Trex decking. House borders a greenbelt, assuring that no one will ever build anything else nearby.",
+		"What do I love about this home? It's close to everything, but it's not on a busy street. And there's with a designated greenbelt behind the home. In the spring, we go to sleep listening to croaking frogs and wake up to chirping birds. And, of course, the kitchen! And the huge walk-in closet! And the fireplace in the master bedroom!"
+	],
+	
+	"pics" : [
+			  {
+			  "label": "House Front",
+			  "full" : "HouseFront.jpg"
+			  },
+			  {
+			  "label": "Dining Area",
+			  "full" : "DiningArea.jpg"
+			  },
+			  {
+			  "label": "Kitchen",
+			  "full" : "Kitchen1.jpg"
+			  },
+			  {
+			  "label": "Kitchen",
+			  "full" : "Kitchen2.jpg"
+			  },
+			  {
+			  "label": "Kitchen",
+			  "full" : "Kitchen3.jpg"
+			  },
+			  {
+			  "label": "Living Room",
+			  "full" : "LivingRoom.jpg"
+			  },
+			  {
+			  "label": "Family Room",
+			  "full" : "FamilyRoom1.jpg"
+			  },
+			  {
+			  "label": "Family Room",
+			  "full" : "FamilyRoom2.jpg"
+			  },
+			  {
+			  "label": "Master Bedroom",
+			  "full" : "MasterBedroom.jpg"
+			  },
+			  {
+			  "label": "Master Bathroom",
+			  "full" : "MasterBathroom2.jpg"
+			  },
+			  {
+			  "label": "Master Bedroom Closet",
+			  "full" : "MasterBedroomCloset.jpg"
+			  },
+			  {
+			  "label": "Top of the Stairs",
+			  "full" : "UpstairsWide.jpg"
+			  },
+			  {
+			  "label": "Guest Room",
+			  "full" : "GuestRoom.jpg"
+			  },
+			  {
+			  "label": "Guest Room Bathroom",
+			  "full" : "GuestRoomBathroomWide.jpg"
+			  },
+			  {
+			  "label": "Third Bedroom",
+			  "full" : "ThirdBedroom.jpg"
+			  },
+			  {
+			  "label": "Fourth Bedroom.jpg",
+			  "full" : "FourthBedroom.jpg"
+			  },
+			  {
+			  "label": "Upstairs Bathroom",
+			  "full" : "UpstairsBathroomWide.jpg"
+			  },
+			  {
+			  "label": "Upstairs Laundry Room",
+			  "full" : "UpstairsLaundryRoom.jpg"
+			  },
+			  {
+			  "label": "Backyard",
+			  "full" : "Backyard1.jpg"
+			  },
+			  {
+			  "label": "Backyard",
+			  "full" : "Backyard2.jpg"
+			  },
+			  {
+			  "label": "Downstairs Bathroom",
+			  "full" : "DownstairsBathroom.jpg"
+			  },
+			  {
+			  "label": "House Front",
+			  "full" : "HouseFront.jpg"
+			  }
+		],
+	
+	"photoCredit" : {
+		"description" : "Photos by Jagger Photography",
+		"phone-number" : "360-685-3685",
+		"website" : "www.jaggerphotography.com"
+	}
+}
