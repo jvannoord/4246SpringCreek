@@ -10,7 +10,6 @@ body {
 }
 
 #container {
-//	width: 450px;
 	margin:0 auto;
 }
 
@@ -40,11 +39,8 @@ h1 span.address2 {
 	font-weight: normal;
 }
 
-div.iframe {
-	text-align: center;
-}
-
 ul {
+	margin-top: 40px;
 }
 
    a:link,
@@ -58,3 +54,15 @@ a:link, a:visited {
     font-weight: 600;
 }
 
+p.description {
+	margin: 10px;
+	margin-top: 40px;
+	font-size: 16px;
+}
+
+p.price {
+	text-align: center;
+    color: #d22929;
+	font-weight: bold;
+	font-size: 20px;
+}

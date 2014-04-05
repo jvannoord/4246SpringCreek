@@ -3,6 +3,8 @@
 		"price" : "$425,000",
 		"address1" : "4246 Spring Creek Lane",
 		"address2" : "Bellingham, WA 98226",
+		"googlemap-iframe-url" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2628.3029706018438!2d-122.46664099999997!3d48.795196000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485a4bcf6ccf781%3A0x68c548e9971a2b0!2s4246+Spring+Creek+Lane!5e0!3m2!1sen!2sus!4v1395890432094",
+		"googlemap-short-url" : "https://goo.gl/maps/JCCq6",
 		"sqft" : "3,200 sq ft",
 		"lot" : "4,791 sq ft",
 		"built" : "2006",
@@ -18,7 +20,8 @@
 		"contact-name" : "James"
 	},
 
-	"features" : ["front porch",
+	"features" : [
+				  "front porch",
 				  "back deck",
 				  "natural gas plubed outdoors",
 				  "natural gas furnace",
@@ -43,13 +46,21 @@
 				  "ceiling fans",
 				  "double pane/storm windows",
 				  "jetted tub",
-				  "territorial view"
+				  "territorial view",
+				  "house size 3,200 sq ft",
+				  "lot size 4,791 sq ft",
+				  "built in 2006",
+				  "force-air heat"
 				  ],
 	
 	"descriptions" : [
 		"Awesome Ralph Black-built home with 4 bedrooms, 3.5(!) bathrooms and 2-car garage. HUGE and spacious kitchen with granite countertops and Jenn-Air oven+stove. ENORMOUS master bedroom with spa-like bathroom and a walk-in closet as large as other homes' bedrooms. 2 gas fireplaces! Guest room has its own full bathroom. A covered porch on the front and open-air deck on the back that both feature aluminum railings and Trex decking. House borders a greenbelt, assuring that no one will ever build anything else nearby.",
-		"What do I love about this home? It's close to everything, but it's not on a busy street. And there's with a designated greenbelt behind the home. In the spring, we go to sleep listening to croaking frogs and wake up to chirping birds. And, of course, the kitchen! And the huge walk-in closet! And the fireplace in the master bedroom!"
-	],
+		"What do we love about this home? It's close to everything, but it's not on a busy street. And there's with a designated greenbelt behind the home. In the spring, we go to sleep listening to croaking frogs and wake up to chirping birds. And, of course, the kitchen! And the huge walk-in closet! And the fireplace in the master bedroom!"
+					  ],
+	
+	"extras" : [
+		"Compensation will be paid to the buyer's agent with an accepted offer and preparation of closing documents."
+				],
 	
 	"pics" : [
 			  {
@@ -142,9 +153,9 @@
 			  }
 		],
 	
-	"photoCredit" : {
+	"photo-credit" : {
 		"description" : "Photos by Jagger Photography",
 		"phone-number" : "360-685-3685",
-		"website" : "www.jaggerphotography.com"
+		"website" : "http://www.jaggerphotography.com"
 	}
 }
